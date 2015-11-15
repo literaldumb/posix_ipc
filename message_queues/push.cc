@@ -1,3 +1,9 @@
+/*
+ * Run the first time with -q, to create the queue
+ * Subsequent runs should be run without the -q option
+ * Regardless of the run number, execute with -p for priority
+*/
+
 #include <iostream>
 #include <mqueue.h>
 #include <sys/stat.h>
