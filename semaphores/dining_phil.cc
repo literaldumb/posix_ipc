@@ -1,4 +1,3 @@
-
 //classic dining philosophers
 //think,eat repeat 
 
